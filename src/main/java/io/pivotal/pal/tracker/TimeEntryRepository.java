@@ -13,5 +13,5 @@ public interface TimeEntryRepository {
 
     public void delete(Long timeEntryId);
 
-    public boolean contains(Long id);
+    //public boolean contains(Long id);
 }
